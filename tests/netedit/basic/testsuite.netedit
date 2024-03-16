@@ -1,0 +1,15 @@
+open
+
+save
+
+reload
+
+quit
+
+configs
+
+modes
+
+about_dialog
+
+pyautogui_error
